@@ -1,0 +1,16 @@
+
+{
+  "name": "DeathStrokEngine",
+  "version": "0.0.1",
+  "author": "Rishit Bhatia",
+  "description": "First Game Engine from scratch for the Ludum Dare 48h challenge",
+  "dependencies": {
+    "mime": "latest"
+  },
+  "devDependencies": {
+   	"browserify": "latest",
+    "grunt": "~0.4.0",
+    "grunt-browserify": "latest",
+    "grunt-contrib-concat": "~0.3.0"	
+  }
+}
